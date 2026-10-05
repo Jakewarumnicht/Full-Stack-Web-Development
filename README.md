@@ -1,2 +1,2 @@
 # Full-Stack
-Full-Stack Entwicklung im 4. Semester an der HWR
+Full-Stack Web Development im 4. Semester an der HWR
