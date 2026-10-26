@@ -27,12 +27,10 @@ Passendere Matches zwischen Studierenden und Unternehmen.
 
 Pains:
 Pains der Student:
-
 -Plattformen zeigen zufällige Studentenjobs für alle Semester und Bereiche, deshalb findet man kaum eine passende Anzeige.
 -Es fehlt die Übersicht: Man muss jede Anzeige komplett lesen, um zu prüfen, ob man die Anforderungen erfüllt, und bewirbt sich oft ohne Rückmeldung.
 
 Pains der Unternehmen:
-
 -Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gesichtet werden müssen und kleinen Betrieben Zeit kosten.
 -Die Fähigkeiten der Bewerber lassen sich nicht prüfen, denn Java oder Excel stehen nur im Lebenslauf, und oft merkt man erst im Gespräch, ob es stimmt.
 
@@ -44,10 +42,15 @@ Features:
 Gain Creators:
 
 Pain Relievers:
+Pain Relievers Unternehmen:
+-Kandidatenfilter nach Studiengang, Semester, Skills und Stunden pro Woche, dazu ein Match-Prozent pro Kandidat. So sehen Arbeitgeber
+nur passende Studierende und müssen nicht mehr alles einzeln sichten.
+-Skill-Profil mit Prüfsiegel: Zertifikate und Weiterbildungen wurden vorab geprüft, deshalb sehen Arbeitgeber sofort, was ein Bewerber wirklich kann.
 
-
-
-
+Pain Relievers Studenten:
+-Semester- und Fachbereichsfilter blenden unpassende Jobs aus, sodass man schnell passende Anzeigen findet.
+-Match-Prozent pro Stelle zeigt auf einen Blick, ob man passt, ohne die ganze Anzeige zu lesen.
+-Zertifikate und Weiterbildungen hochladen und prüfen lassen, damit Skills wie Java oder Fullstack belegt sind.
 
 
 Was ist Problemstellung: Studierende haben oft wenig Berufserfahrung und können ihre fachlichen Stärken schwer zeigen.
