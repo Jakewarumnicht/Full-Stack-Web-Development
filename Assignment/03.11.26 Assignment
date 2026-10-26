@@ -18,6 +18,15 @@ Who are we designing for?
 Student / Unternehmen
 
 To-Dos:
+To-Dos Studenten:
+-Einen Werkstudentenjob haben, der zum Studium passt
+-Praxiserfahrung im eigenen Fachbereich sammeln
+-Die eigenen Skills belegen können
+
+To-Dos Unternehmen:
+-Passende Werkstudierende für offene Stellen finden
+-Wenig Zeit im Recruiting aufwenden
+-Sicher sein, dass Bewerber die nötigen Skills haben
 
 Gains:
 - Studierende können ihre Skills und Studienleistungen sichtbar und glaubwürdig darstellen.
@@ -44,6 +53,7 @@ Standort oder Remote und Startdatum. So sehen sie nur Stellen, die zu ihrem Stud
 -Matching mit Match-Prozent pro Stelle
 Die Plattform vergleicht Profil und Stellenanforderungen und zeigt bei jeder Anzeige einen Match-Prozentwert. Dazu sieht man, welche Anforderungen
 erfüllt sind und welche fehlen. So erkennt man auf einen Blick, ob man passt, ohne die ganze Anzeige zu lesen.
+
 Features für Unternehmen:
 -Matching mit sortierter Kandidatenliste
 Beim Anlegen einer Stelle legen Arbeitgeber die Anforderungen fest. Die Plattform sortiert die Kandidaten nach Match-Prozent, die besten 
