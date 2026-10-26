@@ -38,6 +38,12 @@ Pains der Unternehmen:
 What do we offer them?
 
 Features:
+-Filterfunktion für Jobs
+Studierende können Jobs filtern nach Studiengang, Semester, Fachbereich, Skills (z. B. Java, Fullstack, SAP), Stunden pro Woche,
+Standort oder Remote und Startdatum. So sehen sie nur Stellen, die zu ihrem Studienstand passen.
+-Matching mit Match-Prozent pro Stelle
+Die Plattform vergleicht Profil und Stellenanforderungen und zeigt bei jeder Anzeige einen Match-Prozentwert. Dazu sieht man, welche Anforderungen
+erfüllt sind und welche fehlen. So erkennt man auf einen Blick, ob man passt, ohne die ganze Anzeige zu lesen.
 
 Gain Creators:
 
