@@ -17,25 +17,33 @@ Jake Kim: Gezielte Note: 1,3; Meine eigene Idee als funktionierende Webanwendung
 Who are we designing for?
 Student / Unternehmen
 
-- To-Dos
+To-Dos:
 
-- Gains
+Gains:
 Studierende können ihre Skills und Studienleistungen sichtbar und glaubwürdig darstellen.
 Unternehmen finden gezielter passende Werkstudierende.
 Verifizierte Kompetenzen geben beiden Seiten mehr Sicherheit.
 Passendere Matches zwischen Studierenden und Unternehmen.
 
-- Pains
+Pains:
+Pains der Student:
 
+-Plattformen zeigen zufällige Studentenjobs für alle Semester und Bereiche, deshalb findet man kaum eine passende Anzeige.
+-Es fehlt die Übersicht: Man muss jede Anzeige komplett lesen, um zu prüfen, ob man die Anforderungen erfüllt, und bewirbt sich oft ohne Rückmeldung.
+
+Pains der Unternehmen:
+
+-Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gesichtet werden müssen und kleinen Betrieben Zeit kosten.
+-Die Fähigkeiten der Bewerber lassen sich nicht prüfen, denn Java oder Excel stehen nur im Lebenslauf, und oft merkt man erst im Gespräch, ob es stimmt.
 
 ## Value Proposition
 What do we offer them?
 
-- Features
+Features:
 
-- Gain Creators
+Gain Creators:
 
-- Pain Relievers
+Pain Relievers:
 
 
 
