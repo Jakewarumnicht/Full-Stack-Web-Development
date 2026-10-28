@@ -1,7 +1,7 @@
 
 # Contributors #
 ---
-- [docs/contributors/hiran-ahmad.md]
+- [./docs/contributors/hiran-ahmad.md]
 ---
 - [Sibel Centinsoy]
 ---
