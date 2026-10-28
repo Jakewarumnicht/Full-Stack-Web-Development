@@ -38,31 +38,9 @@ To-Dos Studenten:
 - Plattformen zeigen zufällige Studentenjobs für alle Semester und Bereiche, deshalb findet man kaum eine passende Anzeige.
 - Es fehlt die Übersicht: Man muss jede Anzeige komplett lesen, um zu prüfen, ob man die Anforderungen erfüllt, und bewirbt sich oft ohne Rückmeldung.
 
-------------------------------------------------
 
-### Customer Segment ###
-
-------------------------------------------------
-Who are we designing for?
-Unternehmen
-
-------------------------------------------------
-
-** To-Dos Unternehmen: **
--Passende Werkstudierende für offene Stellen finden
--Wenig Zeit im Recruiting aufwenden
--Sicher sein, dass Bewerber die nötigen Skills haben
-
-------------------------------------------------
-
-**Pains der Unternehmen:**
-- Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gesichtet werden müssen und kleinen Betrieben Zeit kosten.
-- Die Fähigkeiten der Bewerber lassen sich nicht prüfen, denn Java oder Excel stehen nur im Lebenslauf, und oft merkt man erst im Gespräch, ob es stimmt.
-
-
-###Value Proposition###
+### Value Proposition ###
 What do we offer them?
-
 ------------------------------------------------
 
 **Features für Studenten:**
@@ -89,7 +67,30 @@ erfüllt sind und welche fehlen. So erkennt man auf einen Blick, ob man passt, o
 
 
 ------------------------------------------------
-###Value Proposition###
+
+### Customer Segment ###
+
+------------------------------------------------
+Who are we designing for?
+Unternehmen
+
+------------------------------------------------
+
+**To-Dos Unternehmen:**
+-Passende Werkstudierende für offene Stellen finden
+-Wenig Zeit im Recruiting aufwenden
+-Sicher sein, dass Bewerber die nötigen Skills haben
+
+------------------------------------------------
+
+**Pains der Unternehmen:**
+- Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gesichtet werden müssen und kleinen Betrieben Zeit kosten.
+- Die Fähigkeiten der Bewerber lassen sich nicht prüfen, denn Java oder Excel stehen nur im Lebenslauf, und oft merkt man erst im Gespräch, ob es stimmt.
+
+
+------------------------------------------------
+
+### Value Proposition ###
 
 ------------------------------------------------
 **Features für Unternehmen:**
