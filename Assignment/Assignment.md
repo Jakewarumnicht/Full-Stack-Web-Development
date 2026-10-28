@@ -20,6 +20,7 @@ Individual goals every member:
 **Who are we designing for?**
 Student
 ------------------------------------------------
+
 To-Dos Studenten:
 ------------------------------------------------
 - Einen Werkstudentenjob haben, der zum Studium passt
@@ -39,7 +40,7 @@ To-Dos Studenten:
 
 ------------------------------------------------
 
-###Customer Segment###
+### Customer Segment ###
 
 ------------------------------------------------
 Who are we designing for?
@@ -47,7 +48,7 @@ Unternehmen
 
 ------------------------------------------------
 
-**To-Dos Unternehmen:**
+** To-Dos Unternehmen: **
 -Passende Werkstudierende für offene Stellen finden
 -Wenig Zeit im Recruiting aufwenden
 -Sicher sein, dass Bewerber die nötigen Skills haben
