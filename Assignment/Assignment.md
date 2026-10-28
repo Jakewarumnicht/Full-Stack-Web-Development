@@ -23,9 +23,9 @@ Student
 
 **To-Dos Studenten:**
 ------------------------------------------------
--Einen Werkstudentenjob haben, der zum Studium passt
--Praxiserfahrung im eigenen Fachbereich sammeln
--Die eigenen Skills belegen können
+- Einen Werkstudentenjob haben, der zum Studium passt
+- Praxiserfahrung im eigenen Fachbereich sammeln
+- Die eigenen Skills belegen können
 ------------------------------------------------
 **Gains:**
 - Studierende können ihre Skills und Studienleistungen sichtbar und glaubwürdig darstellen.
