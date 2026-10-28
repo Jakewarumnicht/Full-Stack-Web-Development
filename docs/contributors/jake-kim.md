@@ -16,7 +16,7 @@
 
 ## Eidesstattliche Erklärung
 
-**[Jane Dane, Matrikelnr.: 1234567]**
+**[Jake Kim, Matrikelnr.: 1234567]**
 
 Ich erkläre an Eides statt:
 
