@@ -1,12 +1,12 @@
 
-[<- Documentation Home](./fswd-app/docs/README.md)
+[<- Documentation Home](./README.md)
 
 # Contributors #
 ---
-- [Hiran Ahmad](docs/contributors/hiran-ahmad.md)
+- [Hiran Ahmad](./hiran-ahmad.md)
 ---
-- [Sibel Centinsoy](docs/contributors/sibel-centinsoy.md)
+- [Sibel Centinsoy](./sibel-centinsoy.md)
 ---
-- [Jonas Fabian Müller](docs/contributors/jonas-fabian-müller.md)
+- [Jonas Fabian Müller](./jonas-fabian-müller.md)
 ---
 - [Jake Kim](./jake-kim.md)
