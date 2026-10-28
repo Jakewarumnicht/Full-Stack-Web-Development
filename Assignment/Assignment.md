@@ -15,13 +15,14 @@ Individual goals every member:
 ------------------------------------------------
 
 
-###Customer Segment###
+### Customer Segment ###
 ------------------------------------------------
-Who are we designing for?
+**Who are we designing for?**
 Student
 ------------------------------------------------
 
 **To-Dos Studenten:**
+------------------------------------------------
 -Einen Werkstudentenjob haben, der zum Studium passt
 -Praxiserfahrung im eigenen Fachbereich sammeln
 -Die eigenen Skills belegen können
