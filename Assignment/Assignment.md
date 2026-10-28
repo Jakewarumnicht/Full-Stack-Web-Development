@@ -20,8 +20,7 @@ Individual goals every member:
 **Who are we designing for?**
 Student
 ------------------------------------------------
-
-**To-Dos Studenten:**
+To-Dos Studenten:
 ------------------------------------------------
 - Einen Werkstudentenjob haben, der zum Studium passt
 - Praxiserfahrung im eigenen Fachbereich sammeln
