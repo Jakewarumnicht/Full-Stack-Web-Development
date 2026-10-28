@@ -1,7 +1,8 @@
 
-[<- Documentation Home](../../README.md)
+[← Documentation Home](../README.md)
 
-# Contributors #
+# Contributors
+
 ---
 - [Hiran Ahmad](./hiran-ahmad.md)
 ---
