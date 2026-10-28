@@ -14,7 +14,7 @@ Individual goals every member:
 - Jake Kim: Gezielte Note: 1,3; Meine eigene Idee als funktionierende Webanwendung selbständig umsetzen.
 ------------------------------------------------
 
-## Value Position ##
+## Value Proposition ##
 ------------------------------------------------
 
 ### Customer Segment ###
