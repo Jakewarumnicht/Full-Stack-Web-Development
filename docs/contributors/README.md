@@ -1,9 +1,9 @@
 
-[<- Documentation Home](./docs/)
+[<- Documentation Home](./fswd-app/docs/README.md/)
 
 # Contributors #
 ---
-- [Hiran Ahmad](./docs/contributors/hiran-ahmad.md)
+- [Hiran Ahmad](./docs/contributors/hiran-ahmad.md/)
 ---
 - [Sibel Centinsoy]
 ---
