@@ -1,5 +1,5 @@
 
-[<- Documentation Home](docs/README.md)
+[<- Documentation Home](../README.md)
 
 # Contributors #
 ---
