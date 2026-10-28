@@ -17,7 +17,7 @@ Individual goals every member:
 
 ### Customer Segment ###
 ------------------------------------------------
-**Who are we designing for?**
+Who are we designing for?
 Student
 ------------------------------------------------
 
