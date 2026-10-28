@@ -1,7 +1,7 @@
 
 # Contributors #
 ---
-- [Hiran Ahmad]
+- [hiran-ahmad.md]
 ---
 - [Sibel Centinsoy]
 ---
