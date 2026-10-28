@@ -1,5 +1,5 @@
 
-[<- Documentation Home](fswd-app/README.md)
+[<- Documentation Home](docs/README.md)
 
 # Contributors #
 ---
