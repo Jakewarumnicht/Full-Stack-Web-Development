@@ -1,8 +1,8 @@
 
-#Team Composition#
+# Team Composition #
 
 ## Teamname: Team 8 ##
-|:---| |:---| |:---| |:---| |:---| |:---| |:---| |:---| |:---| |:---|
+------------------------------------------------
 |Individual goals every member: 
 |:---| |:---| |:---| |:---| |:---| |:---| |:---| |:---| |:---| |:---| 
 |Hiran Ahmad: 1,7; Eine kreative Projektidee im Team technisch verwirklichen.
