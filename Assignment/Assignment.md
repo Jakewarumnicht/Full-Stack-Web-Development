@@ -17,11 +17,11 @@ Individual goals every member:
 
 ### Customer Segment ###
 ------------------------------------------------
-Who are we designing for?
+**Who are we designing for?**
 Student
 ------------------------------------------------
 
-To-Dos Studenten:
+**To-Dos Studenten:**
 ------------------------------------------------
 - Einen Werkstudentenjob haben, der zum Studium passt
 - Praxiserfahrung im eigenen Fachbereich sammeln
@@ -40,7 +40,7 @@ To-Dos Studenten:
 
 ------------------------------------------------
 ### Value Proposition ###
-What do we offer them?
+**What do we offer them?**
 ------------------------------------------------
 
 **Features für Studenten:**
@@ -74,7 +74,7 @@ erfüllt sind und welche fehlen. So erkennt man auf einen Blick, ob man passt, o
 ### Customer Segment ###
 
 ------------------------------------------------
-Who are we designing for?
+**Who are we designing for?**
 Unternehmen
 
 ------------------------------------------------
