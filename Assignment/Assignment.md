@@ -1,7 +1,7 @@
 
-# Team Composition #
+## Team Composition ##
 
-## Teamname: Team 8 ##
+**Teamname: Team 8**
 ------------------------------------------------
 Individual goals every member: 
 ------------------------------------------------
@@ -14,6 +14,8 @@ Individual goals every member:
 - Jake Kim: Gezielte Note: 1,3; Meine eigene Idee als funktionierende Webanwendung selbständig umsetzen.
 ------------------------------------------------
 
+## Value Position ##
+------------------------------------------------
 
 ### Customer Segment ###
 ------------------------------------------------
@@ -39,8 +41,7 @@ Student
 - Plattformen zeigen zufällige Studentenjobs für alle Semester und Bereiche, deshalb findet man kaum eine passende Anzeige.
 - Es fehlt die Übersicht: Man muss jede Anzeige komplett lesen, um zu prüfen, ob man die Anforderungen erfüllt, und bewirbt sich oft ohne Rückmeldung.
 
-------------------------------------------------
-### Value Proposition ###
+
 ------------------------------------------------
 **What do we offer them?**
 ------------------------------------------------
@@ -72,9 +73,7 @@ erfüllt sind und welche fehlen. So erkennt man auf einen Blick, ob man passt, o
 
 
 ------------------------------------------------
-
 ### Customer Segment ###
-
 ------------------------------------------------
 **Who are we designing for?**
 ------------------------------------------------
@@ -91,11 +90,6 @@ Unternehmen
 **Pains der Unternehmen:**
 - Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gesichtet werden müssen und kleinen Betrieben Zeit kosten.
 - Die Fähigkeiten der Bewerber lassen sich nicht prüfen, denn Java oder Excel stehen nur im Lebenslauf, und oft merkt man erst im Gespräch, ob es stimmt.
-
-
-------------------------------------------------
-
-### Value Proposition ###
 
 ------------------------------------------------
 **Features für Unternehmen:**
@@ -124,7 +118,6 @@ nur passende Studierende und müssen nicht mehr alles einzeln sichten.
 
 - Skill-Profil mit Prüfsiegel: Zertifikate und Weiterbildungen wurden vorab geprüft, deshalb sehen Arbeitgeber sofort, was ein Bewerber wirklich kann.
 
-
 ------------------------------------------------
 
 Was ist Problemstellung: Studierende haben oft wenig Berufserfahrung und können ihre fachlichen Stärken schwer zeigen.
@@ -132,7 +125,6 @@ Was ist Problemstellung: Studierende haben oft wenig Berufserfahrung und können
 Wer hat das Problem: Studierende auf der Suche nach Werkstudentenstellen und Unternehmen auf der Suche nach passenden Bewerbern.
 
 Was ist die Lösung: Eine Plattform mit Studierendenprofilen, verifizierten Skills und einer gezielten Suche nach passenden Kandidaten.
-
 
 
 ------------------------------------------------
