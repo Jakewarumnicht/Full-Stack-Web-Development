@@ -9,4 +9,4 @@
 ---
 - [Jonas Fabian Müller](docs/contributors/jonas-fabian-müller.md)
 ---
-- [Jake Kim](docs/contributors/jake-kim.md)
+- [Jake Kim](./jake-kim.md)
