@@ -16,7 +16,7 @@ Meine eigene Idee als funktionierende Webanwendung selbständig umsetzen.
 
 ## Eidesstattliche Erklärung
 
-**[Jake Kim, Matrikelnr.: 1234567]**
+**[Jake Kim, Matrikelnr.: 77207477344]**
 
 Ich erkläre an Eides statt:
 
