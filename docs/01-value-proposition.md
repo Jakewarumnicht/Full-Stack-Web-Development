@@ -11,14 +11,20 @@ A platform serves two distinct user groups, each with their own needs and motiva
 - Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
 - Problem:
   - Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gerichtet werden müssen und kleinen Betrieben Zeit kosten.
+  - Die Fähigkeiten der Bewerber lassen sich nicht genau prüfen, denn Java oder Excel stehen nur im Lebenslauf, und oft merkt man erst im Gespräch, ob es stimmt.
+  - Wenig Zeit im Recruiting aufwenden und gleichzeitig sicher sein wollen, das Bewerber die nötigen Skills haben.
 
 ### Supply Side: Student
 
-[Describe who these users are, what they have to offer, and which problem or need motivates them to participate. Again, be specific and grounded in reality.]
+- Studierende auf der Suche nach einem Werkstudentenjob, der zum Studium passt; sie möchten Praxiserfahrung im eigenen Fachbereich sammeln und bringen theoretische Grundlagen sowie Skills mit.
+- Problem:
+  - Studierende haben oft wenig Berufserfahrung und können ihre fachlichen Stärken schwer zeigen
+  - Plattformen zeigen zufällige Studentenjobs für alle Semester und Bereiche, deshalb findet man kaum eine passende Anzeige.
+  - Es fehlt die Übersicht; Man muss jede Anzeige komplett lesen, um zu prüfen, ob man die Anforderungen erfüllt. 
 
 ## Our Platform Solution
 
-[Briefly describe the purpose of your platform. What brings the two user groups together? What is being offered, requested, or exchanged?]
+Unsere Plattform bringt Studierende und Unternehmen über detaillierte Profile, verifizierte Fähigkeiten und eine zielgerichtete Suche zusammen. Studierende können ihre Qualifikationen sowie Studienleistungen und Projekte belegen und sichtbar machen, während Unternehmen gezielte nach passenden Werkstudierende suchen und Angebote auf Basis verifizierten Kompetenzen und Match-Prozenten ausgetauscht werden. 
 
 ### Solution for the Demand Side
 
