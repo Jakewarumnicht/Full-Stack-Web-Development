@@ -28,11 +28,17 @@ Unsere Plattform bringt Studierende und Unternehmen über detaillierte Profile, 
 
 ### Solution for the Demand Side
 
-[Explain how your application addresses the demand-side users' problem. Why would they choose to use your platform?]
+- Filterfunktion in der Kandidatensuche: Arbeitgeber filtern Studierende nach Studiengang, Semester, Skills, verifizierten Zertifikaten, Stunden pro Woche, Verfügbarkeit und Standort. So sehen sie nur Kandidaten, die zur Ausschreibung passen.
+- Matching mit sortierter Kandidatenliste: Beim Anlegen einer Stelle legen Arbeitgeber die Anforderungen fest. Die Plattform sortiert die Kandidaten nach Match-Prozent, die besten Treffer stehen oben. Das spart das einzelne Sichten aller Bewerbungen.
+- Geprüftes Skill-Profil mit Prüfsiegel: Zertifikate und Weiterbildungen wurden vorab geprüft, deshalb sehen Firmen geprüfte Zertifikate mit Prüfsiegeln und erkennen sofort, was nur angegeben ist und was verifiziert wurde.
+- Fachlich passend, schnell einsetzbar & Zeitersparnis: Semester, Fachbereich und geprüfte Skills sind vorab sichtbar. Unternehmen können passende Studierende direkt über die Plattform anschreiben und kontaktieren, ohne auf unpassende Bewerbungen zu warten.
 
 ### Solution for the Supply Side
 
-[Explain how your application addresses the supply-side users' problem. Why would they choose to offer their services, products, or resources through your platform?]
+- Filterfunktion für Jobs: Studierende können Jobs filtern nach Studiengang, Semester, Fachbereich, Skills (z. B. Java, Fullstack, SAP), Stunden pro Woche, Standort oder Remote und Startdatum. So sehen sie nur Stellen, die zu ihrem Studienstand passen.
+- Matching mit Match-Prozent pro Stelle: Die Plattform vergleicht Profil und Stellenanforderungen und zeigt bei jeder Anzeige einen Match-Prozentwert. Dazu sieht man, welche Anforderungen erfüllt sind und welche fehlen. So erkennt man auf einen Blick, ob man passt, ohne die ganze Anzeige zu lesen.
+- Zertifikate & Weiterbildungen hochladen und prüfen lassen: Skills wie Java oder Fullstack können belegt werden, wodurch Fähigkeiten sichtbar und glaubwürdig dargestellt werden.
+- Mehr Einladungen zum Gespräch: Firmen sehen sofort, was belegt ist, wodurch geprüfte Skills sichtbar sind und passende Studierende direkt über die Plattform angeschrieben werden.
 
 ## Happy Paths
 
@@ -42,11 +48,17 @@ Illustrate the typical successful interaction with your platform from both user 
 
 ### Demand-Side Happy Path
 
-[Show the demand-side user "happy path".]
+- Stelle anlegen & Kriterien definieren: Das Unternehmen legt eine neue Werkstudentenausschreibung an und definiert die genauen Anforderungen (Studiengang, Semester, Skills, Stunden pro Woche, Standort).
+- Sortierte Kandidatenliste einsehen: Die Plattform berechnet das Matching und zeigt eine sortierte Kandidatenliste nach Match-Prozent an; die besten Treffer stehen ganz oben.
+- Filter verfeinern & Profile prüfen: Das Unternehmen nutzt den Kandidatenfilter (z. B. nach verifizierten Zertifikaten, Verfügbarkeit) und öffnet die Profile der Top-Kandidaten, um die durch Prüfsiegel verifizierten Skills einzusehen.
+- Direkte Kontaktaufnahme: Das Unternehmen schreibt die passenden Studierenden direkt über die Plattform an und lädt sie zum Gespräch ein.
 
 ### Supply-Side Happy Path
 
-[Show the supply-side user "happy path".]
+- Profil anlegen & Nachweise hochladen: Der Student erstellt sein Profil mit Studiengang, aktuellem Semester und Skills und lädt Zertifikate sowie Weiterbildungen zur Prüfung hoch, um ein Prüfsiegel für seine Fähigkeiten zu erhalten.
+- Jobs gezielt filtern: Der Student nutzt die Filterfunktion (Studiengang, Semester, Fachbereich, Skills, Stunden pro Woche, Remote/Standort), wodurch unpassende Anzeigen ausgeblendet werden.
+- Match-Prozent & Anforderungen prüfen: In der Job-Übersicht sieht der Student sofort den Match-Prozentwert sowie die erfüllten und fehlenden Anforderungen pro Anzeige auf einen Blick.
+- Erfolgreicher Kontakt: Der Student bewirbt sich auf die passende Stelle oder wird von einem interessierten Unternehmen, das seine verifizierten Skills gesehen hat, direkt zu einem Gespräch eingeladen.
 
 ---
 
