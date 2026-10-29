@@ -6,11 +6,13 @@
 
 A platform serves two distinct user groups, each with their own needs and motivations.
 
-### Demand Side: [Unternehmen]
+### Demand Side: Unternehmen
 
-[Describe (a) who these users are (e.g., as persona) and (b) which problem or unmet need brings them to your platform. Be specific and grounded in reality with both the user and the problem description.]
+- Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
+** Problem:
 
-### Supply Side: [User Group]
+
+### Supply Side: Student
 
 [Describe who these users are, what they have to offer, and which problem or need motivates them to participate. Again, be specific and grounded in reality.]
 
