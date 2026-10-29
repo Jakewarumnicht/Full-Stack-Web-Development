@@ -10,7 +10,7 @@ A platform serves two distinct user groups, each with their own needs and motiva
 
 - Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
 - Problem:
-- Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gerichtet werden müssen und kleinen Betrieben Zeit kosten.
+  - Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gerichtet werden müssen und kleinen Betrieben Zeit kosten.
 
 ### Supply Side: Student
 
