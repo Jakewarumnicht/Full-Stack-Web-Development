@@ -9,8 +9,8 @@ A platform serves two distinct user groups, each with their own needs and motiva
 ### Demand Side: Unternehmen
 
 - Unternehmen und Arbeitgeber auf der Suche nach passenden Studierenden für offene Stellen.
-** Problem:
-
+- Problem:
+- Viele unpassende Bewerbungen aus falschen Fachbereichen und Semestern, die alle einzeln gerichtet werden müssen und kleinen Betrieben Zeit kosten.
 
 ### Supply Side: Student
 
