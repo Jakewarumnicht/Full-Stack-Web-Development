@@ -6,11 +6,11 @@
 
 ### Target grade
 
-[State your target grade for this module. This is meant as a signal to your fellow team members.]
+1,4
 
 ### Personal goals
 
-[State your personal goals regarding this Module, to create transparency among the team members.]
+Sicherer im Umgang mit GitHub und Full-Stack-Entwicklung werden und besser verstehen, wie Frontend, Backend und Datenbank zusammenspielen.
 
 ---
 
