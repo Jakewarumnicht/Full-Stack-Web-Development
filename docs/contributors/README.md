@@ -6,7 +6,7 @@
 ---
 - [Hiran Ahmad](./hiran-ahmad.md)
 ---
-- [Sibel Centinsoy](./sibel-centinsoy.md)
+- [Sibel Cetinsoy](./sibel-cetinsoy.md)
 ---
 - [Jonas Fabian Müller](./jonas-fabian-müller.md)
 ---
