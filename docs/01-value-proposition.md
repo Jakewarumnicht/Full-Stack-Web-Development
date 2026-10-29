@@ -6,7 +6,7 @@
 
 A platform serves two distinct user groups, each with their own needs and motivations.
 
-### Demand Side: [User Group]
+### Demand Side: [Unternehmen]
 
 [Describe (a) who these users are (e.g., as persona) and (b) which problem or unmet need brings them to your platform. Be specific and grounded in reality with both the user and the problem description.]
 
