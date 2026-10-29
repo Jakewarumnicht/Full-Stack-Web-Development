@@ -8,7 +8,7 @@
 
 ## Documentation Contents
 
-- [Value Proposition](01-value-proposition.md)
+- [Value Proposition](docs/01-value-proposition.md)
 - [Data Model](02-data-model.md)
 - [Design Decisions](design-decisions/README.md)
 - [Product Discovery](product-discovery/README.md)
