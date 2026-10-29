@@ -6,11 +6,12 @@
 
 ### Target grade
 
-[State your target grade for this module. This is meant as a signal to your fellow team members.]
+1,7
 
 ### Personal goals
 
-[State your personal goals regarding this Module, to create transparency among the team members.]
+Mein Ziel ist es, meine Ideen gut in die Gruppe einzubringen und gemeinsam im Team das Projekt erfolgreich umzusetzen.
+
 
 ---
 
