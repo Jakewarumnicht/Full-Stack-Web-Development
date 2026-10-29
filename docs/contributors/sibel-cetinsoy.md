@@ -1,6 +1,6 @@
 [← Contributors](README.md)
 
-# Sibel Centinsoy
+# Sibel Cetinsoy
 
 ## Meta-Goals
 
@@ -16,7 +16,7 @@ Sicherer im Umgang mit GitHub und Full-Stack-Entwicklung werden und besser verst
 
 ## Eidesstattliche Erklärung
 
-**[Sibel Centinsoy, Matrikelnr.: 1234567]**
+**[Sibel Cetinsoy, Matrikelnr.: 77203156917]**
 
 Ich erkläre an Eides statt:
 
